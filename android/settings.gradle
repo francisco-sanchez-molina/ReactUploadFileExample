@@ -1,0 +1,3 @@
+rootProject.name = 'ShExample'
+
+include ':app'
