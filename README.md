@@ -4,6 +4,8 @@ npm install -g react-native-cli
 Export in your bashrc android home:
 export ANDROID_HOME="/home/yourUser/Android/Sdk/"
 
+Install Android SDK Build-tools version 23.0.1
+
 Install project dependencies:
 npm install
 
